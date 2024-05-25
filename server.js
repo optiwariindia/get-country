@@ -6,7 +6,6 @@ import router from "./routes/index.js"
     const app = express();
     app
         .use(express.json())
-
         .use(pureIP)
         .use(cors())
         .use(router)
