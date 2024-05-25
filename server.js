@@ -10,4 +10,4 @@ import router from "./routes/index.js"
         .use(cors())
         .use(router)
         .listen(3000)
-})()
+})();
