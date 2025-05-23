@@ -13,9 +13,8 @@ This project provides an API server that takes an IP address and returns the cor
 ### Installation and Setup
 
 1.  **Clone the repository:**
-    Replace `https://github.com/username/repo-name.git` with the actual repository URL and `repo-name` with the directory name.
     ```bash
-    git clone https://github.com/username/repo-name.git
+    git clone https://github.com/optiwariindia/get-country.git
     cd repo-name
     ```
 
